@@ -1,10 +1,10 @@
 import React from 'react';
-import ImageCard from './components/ImageCard';
+import GalleryContainer from './containers/GalleryContainer';
 
 function App() {
   return (
     <>
-    <ImageCard/>
+ <GalleryContainer/>
     
     </>
   );
